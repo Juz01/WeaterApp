@@ -1,0 +1,9 @@
+.app {
+    background-image: url("https://i.pinimg.com/564x/0b/67/96/0b679656ca7ee45626d54e01c3c476b5.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
